@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A Multi-Level Computational Model of Macro-Consciousness with Self-Organizing Inter-Cluster Networks, Predictive Adaptation, and Reproducible Python Simulations"
+authors:
+  - family-names: Khomyakov
+    given-names: Vladimir
+date-released: 2025-08-24
+version: "1.0"
+doi: 10.5281/zenodo.16937282
+url: https://doi.org/10.5281/zenodo.16937282
+repository-code: https://github.com/Khomyakov-Vladimir/macro-consciousness
+license: MIT
+type: software
+keywords:
+  - macro-consciousness modeling
+  - self-organizing networks
+  - cognitive projection
+  - observer entropy
+  - phase transition dynamics
+  - predictive adaptation
+  - multi-level cognitive architecture
+  - subjective physics
+  - reproducible python simulations
+  - inter-cluster coupling
+  - information-theoretic learning

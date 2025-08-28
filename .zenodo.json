@@ -1,0 +1,28 @@
+{
+  "title": "A Multi-Level Computational Model of Macro-Consciousness with Self-Organizing Inter-Cluster Networks, Predictive Adaptation, and Reproducible Python Simulations",
+  "creators": [
+    {
+      "name": "Khomyakov, Vladimir",
+      "affiliation": "Independent Researcher",
+      "orcid": "https://orcid.org/0009-0006-3074-9145"
+    }
+  ],
+  "description": "Code and data for the article 'A Multi-Level Computational Model of Macro-Consciousness with Self-Organizing Inter-Cluster Networks, Predictive Adaptation, and Reproducible Python Simulations'. The software is released under the MIT license. The accompanying article (if separately published) may be licensed under CC-BY-4.0.",
+  "license": "MIT",
+  "keywords": [
+    "macro-consciousness modeling",
+    "self-organizing networks",
+    "cognitive projection",
+    "observer entropy",
+    "phase transition dynamics",
+    "predictive adaptation",
+    "multi-level cognitive architecture",
+    "subjective physics",
+    "reproducible python simulations",
+    "inter-cluster coupling",
+    "information-theoretic learning"
+  ],
+  "version": "1.0",
+  "upload_type": "software",
+  "doi": "10.5281/zenodo.16937282"
+}
